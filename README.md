@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Matheus Lencione👋</h1>
+<h1 align="center">Olá, eu sou o Matheus Lencione 👋</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas na FEPI, Desenvolvedor Full Stack, prestador de serviços na DFATO GAMES e entusiasta de tecnologia e automação.
@@ -17,22 +17,14 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,figma,ps,windows" />
-</div>
+* **Linguagens e Web:** Python, JavaScript, HTML, CSS
+* **Inteligência Artificial:** ChatGPT, Gemini, Claude
+* **Produtividade e Dados:** Excel avançado, Pacote Office
+* **Design e Ferramentas:** Figma, Photoshop, Canva, Git, GitHub, VS Code, Windows
 
 ---
 
 ### 📜 Experiências & Projetos em Destaque
-* **[painel-suporte](https://github.com/mathshow10/painel-suporte):** Painel desenvolvido em Python[cite: 1] para otimizar o fluxo de atendimento em tickets de suporte[cite: 1].
-* **[Laboratorio-das-aulas-de-Front-End-TADS](https://github.com/mathshow10/Laboratorio-das-aulas-de-Front-End-TADS):** Repositório de práticas de programação Front-End (HTML, CSS[cite: 1], JavaScript).
+* **[painel-suporte](https://github.com/mathshow10/painel-suporte):** Painel desenvolvido em Python para otimizar o fluxo de atendimento em tickets de suporte.
+* **[Laboratorio-das-aulas-de-Front-End-TADS](https://github.com/mathshow10/Laboratorio-das-aulas-de-Front-End-TADS):** Repositório de práticas de programação Front-End (HTML, CSS, JavaScript).
 * **Black Bee Drones (UNIFEI | 2019-2020):** Participação em projeto de extensão com foco em programação, automação de drones, exposição na *DroneShow* (São Paulo) e palestras no SESI (Florianópolis).
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mathshow10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathshow10&layout=compact&theme=tokyonight" />
-</div>
