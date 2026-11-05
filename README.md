@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Matheus Lencione 👋</h1>
+<h1 align="center">Olá, eu sou o Matheus Lencione👋</h1>
 
 <p align="center">
   Estudante de Análise e Desenvolvimento de Sistemas na FEPI, Desenvolvedor Full Stack, prestador de serviços na DFATO GAMES e entusiasta de tecnologia e automação.
@@ -17,10 +17,13 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Linguagens e Web:** Python, JavaScript, HTML, CSS
-* **Inteligência Artificial:** ChatGPT, Gemini, Claude
-* **Produtividade e Dados:** Excel avançado, Pacote Office
-* **Design e Ferramentas:** Figma, Photoshop, Canva, Git, GitHub, VS Code, Windows
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,figma,ps,windows" alt="Tecnologias principais" />
+</div>
+
+* **Linguagens e Desenvolvimento:** Python, JavaScript, HTML, CSS, SQL, Git, GitHub
+* **Inteligência Artificial & Produtividade:** ChatGPT, Claude, Gemini, Excel Avançado, Pacote Office
+* **Design e Suporte:** Figma, Photoshop, Canva
 
 ---
 
